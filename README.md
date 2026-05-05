@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Walid</h1>
-<h3 align="center">Full-Stack Developer | Django • React • Next.js</h3>
+<h3 align="center">Full-Stack Developer | Django • Lightweight HTMX • React • Next.js</h3>
 
 ---
 
