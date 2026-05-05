@@ -24,10 +24,10 @@ I build real-world systems from frontend to backend with clean architecture, per
 
 ## 🧠 Tech Stack
 
-**Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap  
+**Frontend:** React, Next.js, HTMX, HTML, CSS, Tailwind, Bootstrap  
 **Backend:** Django, Django REST Framework, FastAPI, Flask  
-**Database:** PostgreSQL, SQLite, Redis  
-**DevOps:** Docker, Linux, Nginx, AWS (basic deployment)  
+**Database:** PostgreSQL, SQLite, MySql, Redis  
+**DevOps:** Docker, Linux, Nginx, AWS, GCP, Azure, Any oher VPS (basic deployment)  
 **Tools:** Git, GitHub, Postman, CI/CD basics  
 
 ---
