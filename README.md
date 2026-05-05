@@ -31,14 +31,14 @@ I build real-world systems from frontend to backend with clean architecture, per
 **Tools:** Git, GitHub, Postman, CI/CD basics  
 
 ---
-
 ## 🌐 Connect With Me
 
 - 🌍 Website: https://waliddeveloper.com  
 - 💼 LinkedIn: https://linkedin.com/in/waliddeveloper  
 - 🐙 GitHub: https://github.com/WalidDeveloperCom  
 - 📧 Email: hi@waliddeveloper.com  
-
+- 💬 WhatsApp: +8801729155304  
+- ✈️ Telegram: @iammdwalid
 ---
 
 ## 💼 Open to Work
