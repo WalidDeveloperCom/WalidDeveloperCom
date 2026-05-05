@@ -1,68 +1,90 @@
 <h1 align="center">Hi 👋, I'm MD. Walid</h1>
-<h3 align="center">🚀 SaaS Engineer | Django • AI • Automation</h3>
+<h3 align="center">Full-Stack Developer | Django • React • Next.js</h3>
 
 ---
 
-🚀 I build **SaaS products and automation systems** that help businesses launch faster and operate smarter.
+🚀 I am a Full-Stack Developer focused on building scalable, secure, and production-ready web applications.
 
-💡 Instead of just coding, I focus on solving real problems:
-- ⚡ Build SaaS MVPs in 7–21 days  
-- 🤖 Automate business workflows  
-- 🔐 Build secure, scalable backend systems  
-- 💳 Integrate payments (Paddle / Stripe)  
+I develop complete solutions from frontend to backend with clean architecture, performance, and real-world usability in mind.
 
 ---
 
-## 🔥 What I'm Building
-- 🚀 SaaS Waitlist System (real-time queue + notifications)
-- 🤖 AI-powered automation tools
-- ⚙️ Scalable backend systems (Django + PostgreSQL)
+## 💼 What I Do
+
+- 🌐 Full-Stack Web Applications (Django + React / Next.js)
+- ⚙️ Backend Development & REST APIs
+- 🎨 Modern UI/UX Interfaces
+- 🔐 Authentication, Authorization & Security Systems
+- 💳 API Integrations (Payments, Automation, Third-party services)
+- 🚀 Deployment & Production Setup
 
 ---
 
-## 💼 Featured Projects
+## 🔥 Featured Projects
 
 ### 🚀 SaaS Waitlist System
-Real-time waitlist + queue management for businesses  
+Real-time queue and waitlist management system for businesses  
 - Multi-tenant architecture  
-- SMS notifications  
+- Real-time updates  
+- Notification-ready system  
+👉 Add repo link
+
+---
+
+### 🛒 E-Commerce Platform
+Full-featured eCommerce web application  
+- Product & order management  
+- Cart & checkout system  
 - Admin dashboard  
-👉 (Add repo link here)
+👉 Add repo link
 
 ---
 
-### 🤖 AI Automation Tool
-Automates repetitive workflows using AI  
-- Task automation  
-- API integrations  
-👉 (Add repo link here)
-
----
-
-### ⚙️ Scalable Backend API
-Production-ready backend system  
-- JWT auth  
-- Payment integration (Paddle/Stripe)  
-- Performance optimization  
-👉 (Add repo link here)
+### 💬 Real-Time Chat Application
+Web-based messaging system  
+- Real-time communication  
+- User authentication  
+- Clean responsive UI  
+👉 Add repo link
 
 ---
 
 ## 🧠 Tech Stack
 
-**Backend:** Django, FastAPI  
-**Frontend:** React, Next.js, HTMX  
-**Database:** PostgreSQL, Redis  
-**Infra:** Docker, AWS  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap  
+**Backend:** Django, FastAPI, Flask, Node.js  
+**Database:** PostgreSQL, SQLite, Redis  
+**DevOps:** Docker, Linux, Nginx, AWS (basic deployment)  
+**Tools:** Git, GitHub, Postman, CI/CD basics  
 
----
+## 🚀 Core Skills
 
-## 📊 GitHub Stats
+### 🧠 Backend Development
+Python, Django, Django REST Framework, FastAPI, Flask  
+RESTful API Design, Asynchronous Processing, System Architecture
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WalidDeveloperCom&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidDeveloperCom&layout=compact&theme=radical" />
-</p>
+### 🎨 Frontend Development
+HTML, CSS, JavaScript  
+Tailwind CSS, Bootstrap, HTMX
+
+### 🗄️ Databases
+PostgreSQL, SQLite, Redis  
+Database Design, Query Optimization
+
+### ☁️ DevOps & Deployment
+Linux, Docker, Nginx, Gunicorn  
+AWS, Azure, GCP (deployment & hosting)
+
+### 🧪 Testing & Quality Assurance
+pytest, Unit & Integration Testing  
+API Testing, Postman
+
+### 🔐 Security & Backend Systems
+JWT Authentication, Role-Based Access Control (RBAC)  
+Secure API Design, Input Validation, Logging & Monitoring
+
+### 🛠️ Tools & Workflow
+Git, GitHub, CI/CD Basics, API Debugging
 
 ---
 
@@ -70,14 +92,13 @@ Production-ready backend system
 
 - 🌍 Website: https://waliddeveloper.com  
 - 💼 LinkedIn: https://linkedin.com/in/waliddeveloper  
-- 🐦 Twitter: https://twitter.com/walid_developer  
+- 🐙 GitHub: https://github.com/WalidDeveloperCom  
 - 📧 Email: hi@waliddeveloper.com  
 
 ---
 
-## 💰 Open for Work
+## 💼 Open to Work
 
-💼 I help startups build SaaS products fast.
+I’m open to **Full-Stack Developer roles and freelance projects**.
 
-👉 Need an MVP or automation system?  
-Let’s talk.
+👉 I help businesses build complete web applications from idea to deployment.
