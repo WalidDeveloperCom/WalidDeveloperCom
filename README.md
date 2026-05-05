@@ -32,7 +32,7 @@ I build real-world systems from frontend to backend with clean architecture, per
 ---
 
 ## 💼 Open to Work
-I’m open to **Full-Stack and Back-End Developer roles, including freelance, contract-based, and full-time opportunities.**
+I’m open to **Full-Stack or Back-End Developer roles, including freelance, contract-based, and full-time opportunities.**
 👉 I help businesses turn ideas into real, working web applications from start to deployment.
 ## 🌐 Connect With Me
 
