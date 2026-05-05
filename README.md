@@ -8,7 +8,6 @@
 I build real-world systems from frontend to backend with clean architecture, performance, and usability in mind.
 
 💡 I focus on solving business problems, not just writing code.
-
 ---
 
 ## 💼 What I Do
@@ -29,8 +28,11 @@ I build real-world systems from frontend to backend with clean architecture, per
 **Database:** PostgreSQL, SQLite, MySql, Redis  
 **DevOps:** Docker, Linux, Nginx, AWS, GCP, Azure, Any oher VPS (basic deployment)  
 **Tools:** Git, GitHub, Postman, CI/CD basics  
-
 ---
+
+## 💼 Open to Work
+I’m open to **Full-Stack and Back-End Developer roles, including freelance, contract-based, and full-time opportunities.**
+👉 I help businesses turn ideas into real, working web applications from start to deployment.
 ## 🌐 Connect With Me
 
 - 🌍 Website: https://waliddeveloper.com  
@@ -40,9 +42,4 @@ I build real-world systems from frontend to backend with clean architecture, per
 - 💬 WhatsApp: +8801729155304  
 - ✈️ Telegram: @iammdwalid
 ---
-
-## 💼 Open to Work
-
-I’m open to **Full-Stack and Back-End Developer roles, including freelance, contract-based, and full-time opportunities.**
-
-👉 I help businesses turn ideas into real, working web applications from start to deployment.
+Thank You.. ❤️
