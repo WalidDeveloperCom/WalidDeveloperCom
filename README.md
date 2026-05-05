@@ -28,6 +28,7 @@ I build real-world systems from frontend to backend with clean architecture, per
 **Database:** PostgreSQL, SQLite, MySql, Redis  
 **DevOps:** Docker, Linux, Nginx, AWS, GCP, Azure, Any oher VPS (basic deployment)  
 **Tools:** Git, GitHub, Postman, CI/CD basics  
+
 ---
 
 ## 💼 Open to Work
