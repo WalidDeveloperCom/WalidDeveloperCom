@@ -5,7 +5,9 @@
 
 🚀 I am a Full-Stack Developer focused on building scalable, secure, and production-ready web applications.
 
-I develop complete solutions from frontend to backend with clean architecture, performance, and real-world usability in mind.
+I build real-world systems from frontend to backend with clean architecture, performance, and usability in mind.
+
+💡 I focus on solving business problems, not just writing code.
 
 ---
 
@@ -13,78 +15,20 @@ I develop complete solutions from frontend to backend with clean architecture, p
 
 - 🌐 Full-Stack Web Applications (Django + React / Next.js)
 - ⚙️ Backend Development & REST APIs
-- 🎨 Modern UI/UX Interfaces
+- 🎨 Modern Responsive UI/UX
 - 🔐 Authentication, Authorization & Security Systems
 - 💳 API Integrations (Payments, Automation, Third-party services)
 - 🚀 Deployment & Production Setup
 
 ---
 
-## 🔥 Featured Projects
-
-### 🚀 SaaS Waitlist System
-Real-time queue and waitlist management system for businesses  
-- Multi-tenant architecture  
-- Real-time updates  
-- Notification-ready system  
-👉 Add repo link
-
----
-
-### 🛒 E-Commerce Platform
-Full-featured eCommerce web application  
-- Product & order management  
-- Cart & checkout system  
-- Admin dashboard  
-👉 Add repo link
-
----
-
-### 💬 Real-Time Chat Application
-Web-based messaging system  
-- Real-time communication  
-- User authentication  
-- Clean responsive UI  
-👉 Add repo link
-
----
-
 ## 🧠 Tech Stack
 
 **Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap  
-**Backend:** Django, FastAPI, Flask, Node.js  
+**Backend:** Django, Django REST Framework, FastAPI, Flask  
 **Database:** PostgreSQL, SQLite, Redis  
 **DevOps:** Docker, Linux, Nginx, AWS (basic deployment)  
 **Tools:** Git, GitHub, Postman, CI/CD basics  
-
-## 🚀 Core Skills
-
-### 🧠 Backend Development
-Python, Django, Django REST Framework, FastAPI, Flask  
-RESTful API Design, Asynchronous Processing, System Architecture
-
-### 🎨 Frontend Development
-HTML, CSS, JavaScript  
-Tailwind CSS, Bootstrap, HTMX
-
-### 🗄️ Databases
-PostgreSQL, SQLite, Redis  
-Database Design, Query Optimization
-
-### ☁️ DevOps & Deployment
-Linux, Docker, Nginx, Gunicorn  
-AWS, Azure, GCP (deployment & hosting)
-
-### 🧪 Testing & Quality Assurance
-pytest, Unit & Integration Testing  
-API Testing, Postman
-
-### 🔐 Security & Backend Systems
-JWT Authentication, Role-Based Access Control (RBAC)  
-Secure API Design, Input Validation, Logging & Monitoring
-
-### 🛠️ Tools & Workflow
-Git, GitHub, CI/CD Basics, API Debugging
 
 ---
 
@@ -99,6 +43,6 @@ Git, GitHub, CI/CD Basics, API Debugging
 
 ## 💼 Open to Work
 
-I’m open to **Full-Stack Developer roles and freelance projects**.
+I’m open to **Full-Stack and Back-End Developer roles, including freelance, contract-based, and full-time opportunities.**
 
-👉 I help businesses build complete web applications from idea to deployment.
+👉 I help businesses turn ideas into real, working web applications from start to deployment.
