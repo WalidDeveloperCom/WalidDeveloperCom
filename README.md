@@ -13,7 +13,7 @@ I build real-world systems from frontend to backend with clean architecture, per
 
 ## 💼 What I Do
 
-- 🌐 Full-Stack Web Applications (Django + React / Next.js)
+- 🌐 Full-Stack Web Applications (Django + React / Next.js or Lightweight HTMX)
 - ⚙️ Backend Development & REST APIs
 - 🎨 Modern Responsive UI/UX
 - 🔐 Authentication, Authorization & Security Systems
